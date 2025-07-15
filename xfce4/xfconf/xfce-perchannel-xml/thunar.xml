@@ -17,7 +17,7 @@
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
   <property name="last-details-view-column-widths" type="string" value="50,50,123,50,50,50,50,50,902,50,50,69,50,130"/>
   <property name="last-tabs-left" type="array">
-    <value type="string" value="file:///home/rahat/.config"/>
+    <value type="string" value="file:///home/rahat/.config/hypr/scripts"/>
   </property>
   <property name="last-side-pane" type="string" value="THUNAR_SIDEPANE_TYPE_SHORTCUTS"/>
 </channel>

@@ -1,24 +1,18 @@
-2025/07/15-14:06:28.909 4 Reusing MANIFEST /home/rahat/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2025/07/15-14:06:28.916 4 Recovering log #85
-2025/07/15-14:06:28.917 4 Reusing old log /home/rahat/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000085.log 
-2025/07/15-14:11:30.799 4 Level-0 table #89: started
-2025/07/15-14:11:30.807 4 Level-0 table #89: 17761 bytes OK
-2025/07/15-14:11:30.825 4 Delete type=0 #85
-2025/07/15-14:11:30.825 4 Compacting 4@0 + 1@1 files
-2025/07/15-14:11:30.853 4 Generated table #90@0: 358 keys, 751933 bytes
-2025/07/15-14:11:30.853 4 Compacted 4@0 + 1@1 files => 751933 bytes
-2025/07/15-14:11:30.858 4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/07/15-14:11:30.859 4 Delete type=2 #80
-2025/07/15-14:11:30.860 4 Delete type=2 #82
-2025/07/15-14:11:30.860 4 Delete type=2 #84
-2025/07/15-14:11:30.860 4 Delete type=2 #86
-2025/07/15-14:11:30.860 4 Delete type=2 #89
-2025/07/15-14:54:02.766 6 Level-0 table #92: started
-2025/07/15-14:54:02.770 6 Level-0 table #92: 16354 bytes OK
-2025/07/15-14:54:02.776 6 Delete type=0 #88
-2025/07/15-15:01:21.542 6 Level-0 table #94: started
-2025/07/15-15:01:21.547 6 Level-0 table #94: 18470 bytes OK
-2025/07/15-15:01:21.552 6 Delete type=0 #91
-2025/07/15-15:46:58.321 6 Level-0 table #96: started
-2025/07/15-15:46:58.325 6 Level-0 table #96: 18443 bytes OK
-2025/07/15-15:46:58.331 6 Delete type=0 #93
+2025/07/15-20:14:42.250 4 Reusing MANIFEST /home/rahat/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/15-20:14:42.261 4 Recovering log #95
+2025/07/15-20:14:42.264 4 Reusing old log /home/rahat/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000095.log 
+2025/07/15-20:18:21.608 5 Level-0 table #99: started
+2025/07/15-20:18:21.613 5 Level-0 table #99: 16611 bytes OK
+2025/07/15-20:18:21.619 5 Delete type=0 #95
+2025/07/15-20:18:21.619 5 Compacting 4@0 + 1@1 files
+2025/07/15-20:18:21.652 5 Generated table #100@0: 358 keys, 752012 bytes
+2025/07/15-20:18:21.653 5 Compacted 4@0 + 1@1 files => 752012 bytes
+2025/07/15-20:18:21.657 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/15-20:18:21.659 5 Delete type=2 #90
+2025/07/15-20:18:21.659 5 Delete type=2 #92
+2025/07/15-20:18:21.659 5 Delete type=2 #94
+2025/07/15-20:18:21.659 5 Delete type=2 #96
+2025/07/15-20:18:21.659 5 Delete type=2 #99
+2025/07/15-20:29:25.628 5 Level-0 table #102: started
+2025/07/15-20:29:25.633 5 Level-0 table #102: 16467 bytes OK
+2025/07/15-20:29:25.638 5 Delete type=0 #98

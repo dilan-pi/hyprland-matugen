@@ -1,0 +1,6 @@
+2025/07/14-13:32:16.294 9a4 Creating DB /home/rahat/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.xnxx.com_0.indexeddb.leveldb since it was missing.
+2025/07/14-13:32:16.301 9a4 Reusing MANIFEST /home/rahat/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.xnxx.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/14-13:33:14.749 9a4 Level-0 table #5: started
+2025/07/14-13:33:14.752 9a4 Level-0 table #5: 7550 bytes OK
+2025/07/14-13:33:14.757 9a4 Delete type=0 #3
+2025/07/14-13:33:14.757 9a4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

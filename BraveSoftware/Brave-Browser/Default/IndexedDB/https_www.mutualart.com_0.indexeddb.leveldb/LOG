@@ -1,0 +1,6 @@
+2025/07/13-11:02:32.407 2254 Creating DB /home/rahat/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mutualart.com_0.indexeddb.leveldb since it was missing.
+2025/07/13-11:02:32.416 2254 Reusing MANIFEST /home/rahat/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mutualart.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/13-11:02:45.693 2264 Level-0 table #5: started
+2025/07/13-11:02:45.698 2264 Level-0 table #5: 1096 bytes OK
+2025/07/13-11:02:45.703 2264 Delete type=0 #3
+2025/07/13-11:02:45.703 2256 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

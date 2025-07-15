@@ -1,0 +1,138 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="0"/>
+    <property name="dark-mode" type="bool" value="false"/>
+    <property name="panel-0" type="empty">
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="background-alpha" type="uint" value="80"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="1"/>
+        <value type="double" value="1"/>
+        <value type="double" value="1"/>
+        <value type="double" value="0.47796610169491527"/>
+      </property>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="enter-opacity" type="uint" value="68"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="leave-opacity" type="uint" value="68"/>
+      <property name="length" type="double" value="100"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="14"/>
+        <value type="int" value="1"/>
+        <value type="int" value="11"/>
+        <value type="int" value="8"/>
+        <value type="int" value="12"/>
+        <value type="int" value="9"/>
+        <value type="int" value="3"/>
+        <value type="int" value="13"/>
+        <value type="int" value="15"/>
+        <value type="int" value="5"/>
+        <value type="int" value="6"/>
+        <value type="int" value="7"/>
+        <value type="int" value="10"/>
+        <value type="int" value="2"/>
+      </property>
+      <property name="position" type="string" value="p=9;x=688;y=17"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="26"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="enable-struts" type="bool" value="true"/>
+      <property name="border-width" type="uint" value="3"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-10" type="string" value="actions">
+      <property name="appearance" type="uint" value="0"/>
+      <property name="ask-confirmation" type="bool" value="true"/>
+      <property name="button-title" type="uint" value="0"/>
+      <property name="invert-orientation" type="bool" value="false"/>
+      <property name="items" type="array">
+        <value type="string" value="-lock-screen"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="-suspend"/>
+        <value type="string" value="-hibernate"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="-hybrid-sleep"/>
+        <value type="string" value="-restart"/>
+        <value type="string" value="-shutdown"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="-switch-user"/>
+        <value type="string" value="-logout-dialog"/>
+        <value type="string" value="+logout"/>
+      </property>
+    </property>
+    <property name="plugin-13" type="string" value="notification-plugin"/>
+    <property name="plugin-14" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-5" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="enable-mpris" type="bool" value="true"/>
+      <property name="enable-multimedia-keys" type="bool" value="true"/>
+      <property name="enable-wnck" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="known-players" type="string" value="Brave"/>
+    </property>
+    <property name="plugin-6" type="string" value="power-manager-plugin"/>
+    <property name="plugin-1" type="string" value="applicationsmenu">
+      <property name="button-icon" type="string" value="distributor-logo-fedora"/>
+      <property name="show-button-title" type="bool" value="false"/>
+    </property>
+    <property name="plugin-2" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-7" type="string" value="clock">
+      <property name="digital-layout" type="uint" value="3"/>
+      <property name="digital-time-font" type="string" value="Sans Bold 13"/>
+      <property name="digital-time-format" type="string" value="%I:%M %p"/>
+    </property>
+    <property name="plugin-8" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="false"/>
+    </property>
+    <property name="plugin-9" type="string" value="tasklist">
+      <property name="show-handle" type="bool" value="false"/>
+    </property>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-12" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-15" type="string" value="systray">
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “netis_b474c2” active: netis_b474c2 (58%)"/>
+        <value type="string" value="wi-fi network connection “netis_b474c2” active: netis_b474c2 (61%)"/>
+        <value type="string" value="wi-fi network connection “netis_b474c2” active: netis_b474c2 (62%)"/>
+        <value type="string" value="wi-fi network connection “netis_b474c2” active: netis_b474c2 (60%)"/>
+        <value type="string" value="wi-fi network connection “nafizur rahman” active: nafizur rahman (49%)"/>
+        <value type="string" value="wi-fi network connection “nafizur rahman” active: nafizur rahman (50%)"/>
+        <value type="string" value="wi-fi network connection “nafizur rahman” active: nafizur rahman (60%)"/>
+        <value type="string" value="wi-fi network connection “netis_b474c2” active: netis_b474c2 (72%)"/>
+        <value type="string" value="wi-fi network connection “netis_b474c2” active: netis_b474c2 (63%)"/>
+        <value type="string" value="seapplet"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="wi-fi network connection “nafizur rahman” active: nafizur rahman (58%)"/>
+        <value type="string" value="blueman"/>
+        <value type="string" value="wi-fi network connection “nafizur rahman” active: nafizur rahman (55%)"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="stacer"/>
+        <value type="string" value="dnfdragora-updater"/>
+        <value type="string" value="blueman"/>
+      </property>
+    </property>
+  </property>
+</channel>

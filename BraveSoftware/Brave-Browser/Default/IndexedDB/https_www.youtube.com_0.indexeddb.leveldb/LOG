@@ -1,0 +1,6 @@
+2025/07/15-20:16:34.473 1123 Reusing MANIFEST /home/rahat/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/15-20:16:34.474 1123 Recovering log #286
+2025/07/15-20:16:34.488 1123 Reusing old log /home/rahat/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000286.log 
+2025/07/15-20:32:16.048 1123 Level-0 table #291: started
+2025/07/15-20:32:16.072 1123 Level-0 table #291: 1509521 bytes OK
+2025/07/15-20:32:16.078 1123 Delete type=0 #286
